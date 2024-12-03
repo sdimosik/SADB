@@ -1,0 +1,5 @@
+<configuration>
+
+    <!-- Настройка для Exposed -->
+    <logger name="org.jetbrains.exposed" level="DEBUG" />
+</configuration>
